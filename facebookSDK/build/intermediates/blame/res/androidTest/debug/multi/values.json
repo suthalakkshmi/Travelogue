@@ -1,0 +1,847 @@
+[
+    {
+        "outputFile": "E:\\and\\a\\facebookSDK\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 67,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 67,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 90,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 90,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 88,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 88,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 92,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 92,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1824,
+                    "endColumn": 60,
+                    "endOffset": 1880
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1824,
+                        "endColumn": 60,
+                        "endOffset": 1880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1885,
+                    "endColumn": 67,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1885,
+                        "endColumn": 67,
+                        "endOffset": 1948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1953,
+                    "endColumn": 66,
+                    "endOffset": 2015
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1953,
+                        "endColumn": 66,
+                        "endOffset": 2015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2020,
+                    "endColumn": 66,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2020,
+                        "endColumn": 66,
+                        "endOffset": 2082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endColumn": 64,
+                    "endOffset": 2147
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2087,
+                        "endColumn": 64,
+                        "endOffset": 2147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2152,
+                    "endColumn": 65,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2152,
+                        "endColumn": 65,
+                        "endOffset": 2213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endColumn": 60,
+                    "endOffset": 2274
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2218,
+                        "endColumn": 60,
+                        "endOffset": 2274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2279,
+                    "endColumn": 81,
+                    "endOffset": 2356
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2279,
+                        "endColumn": 81,
+                        "endOffset": 2356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2361,
+                    "endColumn": 82,
+                    "endOffset": 2439
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2361,
+                        "endColumn": 82,
+                        "endOffset": 2439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2444,
+                    "endColumn": 80,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2444,
+                        "endColumn": 80,
+                        "endOffset": 2520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endColumn": 87,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2525,
+                        "endColumn": 87,
+                        "endOffset": 2608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 86,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2613,
+                        "endColumn": 86,
+                        "endOffset": 2695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 70,
+                    "endOffset": 2766
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2700,
+                        "endColumn": 70,
+                        "endOffset": 2766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2771,
+                    "endColumn": 73,
+                    "endOffset": 2840
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2771,
+                        "endColumn": 73,
+                        "endOffset": 2840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2845,
+                    "endColumn": 117,
+                    "endOffset": 2958
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2845,
+                        "endColumn": 117,
+                        "endOffset": 2958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2963,
+                    "endColumn": 94,
+                    "endOffset": 3053
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2963,
+                        "endColumn": 94,
+                        "endOffset": 3053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3058,
+                    "endColumn": 59,
+                    "endOffset": 3113
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3058,
+                        "endColumn": 59,
+                        "endOffset": 3113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3118,
+                    "endColumn": 71,
+                    "endOffset": 3185
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3118,
+                        "endColumn": 71,
+                        "endOffset": 3185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3190,
+                    "endColumn": 71,
+                    "endOffset": 3257
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3190,
+                        "endColumn": 71,
+                        "endOffset": 3257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3262,
+                    "endColumn": 73,
+                    "endOffset": 3331
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3262,
+                        "endColumn": 73,
+                        "endOffset": 3331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3336,
+                    "endColumn": 73,
+                    "endOffset": 3405
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3336,
+                        "endColumn": 73,
+                        "endOffset": 3405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3410,
+                    "endColumn": 82,
+                    "endOffset": 3488
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3410,
+                        "endColumn": 82,
+                        "endOffset": 3488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3493,
+                    "endColumn": 100,
+                    "endOffset": 3589
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3493,
+                        "endColumn": 100,
+                        "endOffset": 3589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3594,
+                    "endColumn": 79,
+                    "endOffset": 3669
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3594,
+                        "endColumn": 79,
+                        "endOffset": 3669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3674,
+                    "endColumn": 54,
+                    "endOffset": 3724
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3674,
+                        "endColumn": 54,
+                        "endOffset": 3724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3729,
+                    "endColumn": 69,
+                    "endOffset": 3794
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3729,
+                        "endColumn": 69,
+                        "endOffset": 3794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3799,
+                    "endColumn": 87,
+                    "endOffset": 3882
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3799,
+                        "endColumn": 87,
+                        "endOffset": 3882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3887,
+                    "endColumn": 91,
+                    "endOffset": 3974
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3887,
+                        "endColumn": 91,
+                        "endOffset": 3974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3979,
+                    "endColumn": 99,
+                    "endOffset": 4074
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3979,
+                        "endColumn": 99,
+                        "endOffset": 4074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4079,
+                    "endColumn": 149,
+                    "endOffset": 4224
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4079,
+                        "endColumn": 149,
+                        "endOffset": 4224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4229,
+                    "endColumn": 196,
+                    "endOffset": 4421
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4229,
+                        "endColumn": 196,
+                        "endOffset": 4421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4426,
+                    "endColumn": 152,
+                    "endOffset": 4574
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4426,
+                        "endColumn": 152,
+                        "endOffset": 4574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4579,
+                    "endColumn": 139,
+                    "endOffset": 4714
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4579,
+                        "endColumn": 139,
+                        "endOffset": 4714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4719,
+                    "endColumn": 179,
+                    "endOffset": 4894
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4719,
+                        "endColumn": 179,
+                        "endOffset": 4894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4899,
+                    "endColumn": 83,
+                    "endOffset": 4978
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4899,
+                        "endColumn": 83,
+                        "endOffset": 4978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4983,
+                    "endColumn": 81,
+                    "endOffset": 5060
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4983,
+                        "endColumn": 81,
+                        "endOffset": 5060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5065,
+                    "endColumn": 89,
+                    "endOffset": 5150
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 5065,
+                        "endColumn": 89,
+                        "endOffset": 5150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5155,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5816
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5155,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 5816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5821,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 6313
+                },
+                "from": {
+                    "file": "E:\\and\\a\\facebookSDK\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5821,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 6313
+                    }
+                }
+            }
+        ]
+    }
+]

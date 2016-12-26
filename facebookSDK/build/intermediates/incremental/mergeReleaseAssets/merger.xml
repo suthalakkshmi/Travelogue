@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\and\a\facebookSDK\src\main\assets"/><source path="E:\and\a\facebookSDK\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\and\a\facebookSDK\src\release\assets"/></dataSet></merger>
